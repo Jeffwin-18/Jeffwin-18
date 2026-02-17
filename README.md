@@ -1,6 +1,6 @@
 <h1 align="center">Jeff</h1>
 <p align="center">
-Frontend Developer • Vibe Coder • AI Enthusiast • Inonvation Minded Guy
+Frontend Developer • Vibe Coder • AI Enthusiast • Innovation Minded Guy
 </p>
 
 ---
