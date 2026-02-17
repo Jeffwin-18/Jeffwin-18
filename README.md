@@ -1,5 +1,5 @@
-<h1 align="center">Jeff</h1>
-<p align="center">
+<h1 align="left">Jeff</h1>
+<p align="left">
 Frontend Developer • Vibe Coder • AI Enthusiast • Innovation Minded Guy
 </p>
 
