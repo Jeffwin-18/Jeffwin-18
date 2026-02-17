@@ -6,7 +6,7 @@ Frontend Developer • Vibe Coder • AI Enthusiast
 ---
 Frontend developer from Tamil Nadu, India.  
 College student passionate about building clean web experiences and exploring AI.  
-Always learning. Always building.
+Not Always learning . But Always building.
 
 ---
 
